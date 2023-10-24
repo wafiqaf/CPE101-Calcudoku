@@ -1,5 +1,5 @@
 # CPE101-Calcudoku
-CPE101 (Fundamentals of Computer Science.) Calcudoku Solver. Tasked to write a program to solve Calcudoku puzzles.
+CPE101 (Fundamentals of Computer Science) Calcudoku Solver. Tasked to write a program to solve Calcudoku puzzles.
 
 ## Project Specs
 - Language: Python
